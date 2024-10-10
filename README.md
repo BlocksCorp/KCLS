@@ -1,4 +1,6 @@
 # KCLS
+> Updated for version 1.1.0 of KC
+
 The core backend systems for KrakenCore.
 
 KCLS - **KrakenCore Launcher System**
