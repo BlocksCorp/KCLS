@@ -1,5 +1,5 @@
 # KCLS
-> Updated for version 1.1.0 of KC
+> Updated for version 1.1.1 of KC
 
 The core backend systems for KrakenCore.
 
